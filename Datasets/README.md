@@ -10,11 +10,7 @@ This dataset contains **SQL Injection (SQLi), Cross-Site Scripting (XSS), and Co
 
 ### 1. Download the Dataset
 
-You can download the dataset from:
-
-Kaggle: https://www.kaggle.com/datasets/alextrinity/sqli-xss-dataset
-
-GitHub Repository: Download the dataset directly from this repository and merge the parts using merge.py.
+Download the dataset directly from this repository and merge the parts using merge.py.
 
 ### 2. Merge the Dataset
 
@@ -26,7 +22,7 @@ To combine all parts into a single file, run:
 
 The dataset may expand with more payloads in the future.
 
-## 🔗 Dataset Links:
+## 🔗 Original Dataset Link:
 
 Kaggle: https://www.kaggle.com/datasets/alextrinity/sqli-xss-dataset
 
