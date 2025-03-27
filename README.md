@@ -1,2 +1,2 @@
-# InjectionDetector
-A GCN basied Injection attack detector that works at a Web application firewall level. 
+# InjectionDetector  
+A GCN-based detection system for injection attacks, designed to operate at the Web Application Firewall (WAF) level.
