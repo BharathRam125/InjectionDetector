@@ -37,9 +37,10 @@ The **GCN-based model** consists of:
 ---
 
 ## 🔗 **Links & Resources**  
-📌 **Kaggle Model:** [Web Injection Detection - GCN Model](https://www.kaggle.com/models/bharathrams/web-injection-detection-gcn-based-model/)  
-📌 **Dataset Used:** [SQLi & XSS Dataset](https://www.kaggle.com/datasets/alextrinity/sqli-xss-dataset)  
-📌 **Preprocessed Data, Training Code & Notebooks:** [GitHub Repository](https://github.com/SaiyanSai/InjectionDetector)  
+📌 Kaggle Model: [Web Injection Detection - GCN Model](https://www.kaggle.com/models/bharathrams/web-injection-detection-gcn-based-model/)  
+📌 Dataset Used: [SQLi & XSS Dataset](https://www.kaggle.com/datasets/alextrinity/sqli-xss-dataset)  
+📌 Preprocessed Data, Training Code & Notebooks: [GitHub Repository](https://github.com/SaiyanSai/InjectionDetector)  
+
 ---
 
 📢 **Note:** The model is trained on a limited dataset and is intended for research and educational purposes only.
