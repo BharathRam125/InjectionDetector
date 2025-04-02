@@ -1,6 +1,5 @@
 # **Web Injection Detection - GCN-based Model**
-A GCN-based detection system for injection attacks, designed to operate at the Web Application Firewall (WAF) level.
-
+**A GCN-based detection system for injection attacks, designed to operate at the Web Application Firewall (WAF) level.**
 ---
 
 ## 📌 **Overview**  
@@ -12,7 +11,6 @@ This project provides a **Graph Neural Network (GNN)-based approach** to detect 
 ✔ The model currently focuses on **SQLi, XSS, and Command Injection** only.  
 ⚠ Warning: Dataset imbalance detected for XSS and command injection samples. Additional data collection or resampling may be required to improve model generalization.
 
----
 
 ## 🏗 **Model Architecture**  
 The **GCN-based model** consists of:  
@@ -40,7 +38,6 @@ During evaluation, the model demonstrated **high precision and recall for SQLi d
 
 By leveraging these strengths while addressing limitations, future iterations of the model can further enhance web security through deep learning-driven payload analysis.
 
----
 
 ## 📂 **Dataset & Preprocessing**  
 
@@ -55,17 +52,13 @@ By leveraging these strengths while addressing limitations, future iterations of
 📌 **Modified datasets, preprocessing scripts, and notebooks** are available in the GitHub repository.
 
 
----
-
 ## 🔗 **Links & Resources**  
 📌 Dataset Used: [SQLi & XSS Dataset](https://www.kaggle.com/datasets/alextrinity/sqli-xss-dataset)  
 📌 Preprocessed Data, Training Code & Notebooks: [GitHub Repository](https://github.com/SaiyanSai/InjectionDetector)  
 
----
 
 📢 **Note:** The model is trained on a limited dataset and is intended for research and educational purposes only.
 
----
 
 ## 🚀 **Future Work**
 - **Improve Class Balance:** Further augment XSS and command injection samples to reduce imbalance.
