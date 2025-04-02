@@ -1,2 +1,7 @@
 do the following :
 python app.py
+
+Make sure ur model (.pth) and vocab are in /Models 
+you can download them from our kaggle account
+
+also make sure u install the required packages (requirements.txt not updated yet)
