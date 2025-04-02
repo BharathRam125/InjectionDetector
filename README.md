@@ -1,6 +1,5 @@
 # **Web Injection Detection - GCN-based Model**
 **A GCN-based detection system for injection attacks, designed to operate at the Web Application Firewall (WAF) level.**
----
 
 ## 📌 **Overview**  
 This project provides a **Graph Neural Network (GNN)-based approach** to detect web injection attacks. By structuring web request data into graph-based representations, the model improves pattern recognition and anomaly detection.  
