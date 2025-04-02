@@ -1,8 +1,5 @@
 # **Web Injection Detection - GCN-based Model**
-
 A GCN-based detection system for injection attacks, designed to operate at the Web Application Firewall (WAF) level.
-
-🚀 **Graph Convolutional Network (GCN)-based model for detecting SQL Injection (SQLi), XSS, and Command Injection attacks.**  
 
 ---
 
